@@ -9,7 +9,7 @@ Welcome to my portfolio! Explore my journey in problem solving, software project
 <table>
   <thead>
         <tr>
-            <td align="center" width="33%"><a href="">                  Problem Solving                  </a></td>
+            <td align="center" width="33%"><a href="https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/README.md">                  Problem Solving                  </a></td>
             <td align="center" width="33%"><a href="">                 Data Science Case Studies                 </a></td>
             <td align="center" width="33%"><a href="">                       Projects              </a></td>
         </tr>
