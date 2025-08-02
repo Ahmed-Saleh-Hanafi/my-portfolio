@@ -17,7 +17,7 @@ Welcome to my portfolio! Explore my journey in problem solving, software project
 
   <tbody>
         <tr>
-            <td align="center"><a href="/problem-solving/README.md">                              
+            <td align="center"><a href="https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/README.md">                              
               <img src="https://github.com/user-attachments/assets/1560bac9-e43c-4d64-a98e-2d0199175439"                  width="70%"></img></a></td>
             <td align="center"><a href="/Data-Science-Case-Studies/README.md">                             
               <img src="https://github.com/user-attachments/assets/bb95cd3b-67af-416c-aee1-d75ecb753b3f"                 width="70%"></img></a></td>
