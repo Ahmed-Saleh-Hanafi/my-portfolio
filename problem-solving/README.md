@@ -9,8 +9,8 @@ Problems are organized into **four levels** based on difficulty and topics:
 
 | Level | Description |
 |-------|-------------|
-| [Level 1: Programming Languages](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-1-Programming%20Languages/README.md)     | Basic syntax, loops, arrays, strings, conditionals, Bit Manipulation, Math |
-| [Level 2: Data Structures and Algorithms](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-2-Data-Structures-and-Algorithms/README.md) | Linear Data Structures, Non-linear Data Structures, Basic Algorithms, Basic Graph Theory,basic OOP |
+| [Level 1: Programming Languages](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-1-Programming%20Languages/README.md)     | Basic syntax, loops, arrays, strings, conditionals, Bit Manipulation, Math,basic OOP  |
+| [Level 2: Data Structures and Algorithms](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-2-Data-Structures-and-Algorithms/README.md) | Linear Data Structures, Non-linear Data Structures, Basic Algorithms, Basic Graph Theory|
 | [Level 3: Intermediate Data Structures and Algorithms](./level-3-advanced)     | Graphs, dynamic programming, greedy, backtracking |
 | [Level 4: Advanced](./level-4-expert)         | Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String |
 
@@ -57,6 +57,7 @@ Problems are organized into **four levels** based on difficulty and topics:
 - Prepare for coding interviews 💼  
  
 ---
+
 
 
 
