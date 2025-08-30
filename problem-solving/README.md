@@ -19,6 +19,8 @@ Problems are organized into **four levels** based on difficulty and topics:
 ## 💡 Platforms Used
 
 - [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [HackerRank](https://www.hackerrank.com/)
 
 ---
 ## 🧠 Skills Gained from Problem Solving
@@ -57,6 +59,7 @@ Problems are organized into **four levels** based on difficulty and topics:
 - Prepare for coding interviews 💼  
  
 ---
+
 
 
 
