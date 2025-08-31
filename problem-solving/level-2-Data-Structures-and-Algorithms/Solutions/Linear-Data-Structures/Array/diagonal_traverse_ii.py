@@ -10,7 +10,7 @@ class Solution:
         for row in range( len (nums)):
             for col in range (len(nums[row])):
                 index.append((row+col,col, row))
-                
+                  
         index.sort()
         ans = []
         for _ , col , row in index :
