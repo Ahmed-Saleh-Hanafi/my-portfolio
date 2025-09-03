@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\project_game_cg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|solutionrelative:project_game_cg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\project_game_cg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|solutionrelative:project_game_cg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|d:\\study\\third year, first semester\\computer graphics\\sec\\project_game_cg\\project_game_cg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D46B83-433E-4DDA-83AD-AFB9A1C439A7}|Project_Game_CG\\Project_Game_CG.csproj|solutionrelative:project_game_cg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Game_CG\\Form1.cs",
+              "ToolTip": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Form1.cs",
+              "RelativeToolTip": "Project_Game_CG\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:23:15.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Game_CG\\Form1.cs",
+              "ToolTip": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Form1.cs [Design]",
+              "RelativeToolTip": "Project_Game_CG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:29:49.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Game_CG\\Program.cs",
+              "ToolTip": "D:\\Study\\third year, first semester\\Computer Graphics\\sec\\Project_Game_CG\\Project_Game_CG\\Program.cs",
+              "RelativeToolTip": "Project_Game_CG\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:30:13.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.exe.config
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.exe
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.pdb
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.AssemblyReference.cache
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.Form1.resources
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.Properties.Resources.resources
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.GenerateResource.cache
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.CoreCompileInputs.cache
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.exe
+D:\Copmputer\Computer Graphics\Computer Graphics\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.pdb
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.exe.config
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.exe
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\bin\Debug\Project_Game_CG.pdb
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.AssemblyReference.cache
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.Form1.resources
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.Properties.Resources.resources
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.GenerateResource.cache
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.csproj.CoreCompileInputs.cache
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.exe
+D:\Study\third year, first semester\Computer Graphics\sec\Project_Game_CG\Project_Game_CG\obj\Debug\Project_Game_CG.pdb
